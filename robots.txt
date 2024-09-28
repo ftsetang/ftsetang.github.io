@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ftsetang.github.io/sitemap.ftsetang.gz
+Sitemap: https://ftsetang.github.io/app/sitemap.ftsetang.gz
+Sitemap: https://ftsetang.github.io/assets/sitemap.ftsetang.gz
+Sitemap: https://ftsetang.github.io/css/sitemap.ftsetang.gz
+Sitemap: https://ftsetang.github.io/data/sitemap.ftsetang.gz
+Sitemap: https://ftsetang.github.io/includes/sitemap.ftsetang.gz
+Sitemap: https://ftsetang.github.io/item/sitemap.ftsetang.gz
+Sitemap: https://ftsetang.github.io/src/sitemap.ftsetang.gz
